@@ -1,0 +1,47 @@
+.box-1, .box-2, .box-3, .box-4, .box-5{
+    padding: 3px 5px;
+    float: left;
+
+} 
+.box-1{
+background-color: blue;
+margin: 8px;
+padding: 8px;
+width: 65px;
+text-align: center;
+}
+
+.box-2{
+    background-color: lightslategray;
+    margin: 3px;
+    padding: 17px;
+    width: 90px;
+    text-align: center;
+
+}
+
+.box-3{
+    background-color: green;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+    width: 65px;
+    text-align: center;
+    ;
+}
+
+.box-4{
+    background-color: red;
+    margin: 10px;
+    padding: 10px;
+    width: 66px;
+    text-align: center;
+}
+
+.box-5{
+    background-color: yellow;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 80px;
+}
